@@ -1,0 +1,11 @@
+let answer = 0
+let firstNumber = 0
+let secondNumber = 0
+firstNumber = 15
+secondNumber = 5
+answer = firstNumber - secondNumber
+game.splash("15 - 5 = " + answer)
+firstNumber = 5
+secondNumber = 7
+answer = firstNumber * secondNumber
+game.splash("5 * 7 = " + answer)
